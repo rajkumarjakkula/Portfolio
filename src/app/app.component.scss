@@ -1,0 +1,12 @@
+.main{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+.nav-bar{
+    flex: 25%;
+    background-color: blue;
+}
+.content{
+    flex: 75%;
+}
